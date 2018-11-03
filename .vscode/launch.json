@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "프로그램 시작",
-            "program": "${workspaceFolder}/node_1103/module_event_emitter/serve.js"
+            "program": "${workspaceFolder}/node_1103/openFile.js"
         }
     ]
 }
