@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "프로그램 시작",
-            "program": "${workspaceFolder}/node_1108/http02.js"
+            "program": "${workspaceFolder}/node_1108/http03.js"
         }
     ]
 }
