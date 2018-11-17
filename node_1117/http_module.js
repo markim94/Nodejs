@@ -1,7 +1,7 @@
 var http = require("http");
 
 var options = {
-    host :  'www.naver.com',
+    host :  'markim94.tistory.com',
     port : 80,
     path : '/'
 };
