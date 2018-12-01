@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "프로그램 시작",
-            "program": "${workspaceFolder}/node_1117/expressExample/express03.js"
+            "program": "${workspaceFolder}/node_1201/expressExample/server.js"
         }
     ]
 }
